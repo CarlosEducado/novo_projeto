@@ -1,0 +1,52 @@
+body {
+    background-image: url(./camada-plana-de-papel-azul-de-segunda-feira-com-espaco-de-copia_23-2148756188.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 30%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+summary {
+    margin-top: 40px;
+    text-align: center;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    width: 1000px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    width: 1000px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+img{
+    border: 1px solid black;
+    border-radius: 200px;
+}
