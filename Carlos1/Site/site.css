@@ -1,0 +1,24 @@
+.jg {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 500px;
+}
+
+.it {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.bk {
+    background-color: rgb(30, 29, 29);
+}
+
+.car {
+    display: flex;
+    justify-content: center;
+}
+
+.car1 {
+    height: 250px;
+}
